@@ -10,7 +10,7 @@
 - cat -  Просмотр текста файла (cat ~/catkin_ws/src/clover/clover/launch/clover.launch)
 - (sudo) nano - Текстовый редактор (использовать вместе с sudo, применяется как cat)
 - cd - перемещение по папкам
-![Pasted image 20260318125537.png](https://github.com/deformel09/AI_gtt/master/Pasted image 20260318125537.png)
+	![link](https://github.com/deformel09/AI_gtt/master/link.png()
 - ls - команда просмотра содержимого каталога (если что можно смотреть содержимое определенной папки пользуясь путем ls catkin_ws/)
 - pip3 - установщик(библиотек для python, pip3 install (название библиотеки) пример pip3 install opencv-python )
 - python3 - (запускать .py файлы, можно так же пользоваться путем пример python3 camera.py)
