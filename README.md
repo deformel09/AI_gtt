@@ -28,6 +28,8 @@
 
 [Каскады Хаана](https://github.com/austinjoyal/haar-cascade-files) интересная вещь и в случае с клевером выглядит не плохо но под соервновная не подходят
 
+[HSV picker](https://www.selecolor.com/en/hsv-color-picker/) потыкать цвета в hsv
+
 # Модуль А:
 - Обязательно создаем папку даже если пустая и файлы тоже
 - Прошивка через balenaeatcher прошивку брать из документации clover лежит в doc
