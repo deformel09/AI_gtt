@@ -21,8 +21,11 @@
 
 ## doc:
 [ultralytics](https://docs.ultralytics.com/modes/train/)
+
 [roboflow]( https://docs.roboflow.com/developer/python-sdk/using-the-python-sdk)
+
 [clover](https://clover.coex.tech/ru)
+
 [Каскады Хаана](https://github.com/austinjoyal/haar-cascade-files) интересная вещь и в случае с клевером выглядит не плохо но под соервновная не подходят
 
 # Модуль А:
