@@ -1,3 +1,4 @@
+## Работа с AI
 в папке dataset в нашем случае(Rover-1) лежит coco8.yaml в нем собраны пути к изображениям(файл с путями), 
 
 путь к обученной модели будет лежать по ссылке в консоли после ее обучения
@@ -10,7 +11,7 @@
 - cat -  Просмотр текста файла (cat ~/catkin_ws/src/clover/clover/launch/clover.launch)
 - (sudo) nano - Текстовый редактор (использовать вместе с sudo, применяется как cat)
 - cd - перемещение по папкам
-	![link](https://github.com/deformel09/AI_gtt/master/link.png()
+	![link](https://github.com/deformel09/AI_gtt/blob/master/link.png)
 - ls - команда просмотра содержимого каталога (если что можно смотреть содержимое определенной папки пользуясь путем ls catkin_ws/)
 - pip3 - установщик(библиотек для python, pip3 install (название библиотеки) пример pip3 install opencv-python )
 - python3 - (запускать .py файлы, можно так же пользоваться путем пример python3 camera.py)
@@ -20,8 +21,14 @@
 
 ## doc:
 [ultralytics](https://docs.ultralytics.com/modes/train/)
+
 [roboflow]( https://docs.roboflow.com/developer/python-sdk/using-the-python-sdk)
+
 [clover](https://clover.coex.tech/ru)
+
+[Каскады Хаана](https://github.com/austinjoyal/haar-cascade-files) интересная вещь и в случае с клевером выглядит не плохо но под соервновная не подходят
+
+[HSV picker](https://www.selecolor.com/en/hsv-color-picker/) потыкать цвета в hsv
 
 # Модуль А:
 - Обязательно создаем папку даже если пустая и файлы тоже
